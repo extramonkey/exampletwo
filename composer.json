@@ -1,0 +1,14 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Extramonkey\\Exampleone\\" : "src"
+		}
+	},
+	"name" : "extramonkey/exampleone",
+	"type" : "library",
+	"description" : "Test project",
+	"license" : "MIT",
+	"require" : {
+		"php" : ">=7.2"
+	}
+}
