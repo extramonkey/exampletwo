@@ -3,7 +3,11 @@
 namespace Exampleone;
 
 class Base {
-    
+    /**
+     * Print Hello (with an optional name)
+     * 
+     * @param string $name
+     */
     public static function hello($name = '')
     {
         
