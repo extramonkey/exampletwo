@@ -1,6 +1,6 @@
 <?php 
 
-namespace Extramonkey\Exampleone;
+namespace Exampleone;
 
 class Base {
     
