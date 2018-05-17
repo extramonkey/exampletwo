@@ -10,5 +10,11 @@ class Base {
         return 'Hello ' . $name . '!';
         
     }
-    
+
+    public static function bye($name = '')
+    {
+
+       return 'Goodbye ' . $name . '!';
+
+    }    
 }
